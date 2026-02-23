@@ -105,7 +105,11 @@ Join the same room in the second window.
 
 Start the game and play.
 
+## 🌐 Live Demo
+
+Frontend: https://sketch-battle.vercel.app 
+Backend: https://sketch-battle-backend.onrender.com
+
 👩‍💻 Author
 
 Gauri Soni
-Software Developer Intern
